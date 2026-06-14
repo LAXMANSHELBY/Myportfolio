@@ -174,7 +174,8 @@ export const projects = [
     title: "Aranyam",
     date: "2025",
     description:
-      "A premium, highly immersive website built for a luxury jungle-themed restaurant, featuring elegant visual components, interactive menus, and seamless reservation booking.     USE PASSWORD : aranyam123",
+      "A premium, highly immersive website built for a luxury jungle-themed restaurant, featuring elegant visual components, interactive menus, and seamless reservation booking.",    
+      description : "PASSWORD : aranyam123",
     image: aranyamImg,
     imageLayout: "wide",
     tags: ["React", "Vite", "Tailwind CSS", "Responsive UI"],
